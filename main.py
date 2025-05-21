@@ -594,8 +594,8 @@ if uploaded_file and gemini_api_key:
             transactions_df = pd.DataFrame(transactions)
             
             # Debug: Show parsed data
-            with st.expander("Debug: View Parsed Transactions"):
-                st.write(transactions_df)
+            #with st.expander("Debug: View Parsed Transactions"):
+                #st.write(transactions_df)
             
             st.session_state.visualizations = generate_visualizations(transactions_df)
             
