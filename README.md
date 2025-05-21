@@ -1,7 +1,7 @@
 
 # 💸 Personal UPI Usage and Financial Analyzer using LLMs
 
-An AI-powered FinTech application that processes UPI transaction PDFs (Paytm), extracts transaction details, analyzes financial behavior, and provides personalized recommendations using Google Gemini 1.5 Flash.
+An AI-powered FinTech application that processes UPI transaction PDFs (Paytm, Phonepe), extracts transaction details, analyzes financial behavior, and provides personalized recommendations using Google Gemini 1.5 Flash.
 
 ---
 
@@ -26,7 +26,7 @@ Develop an AI-driven personal finance assistant that:
 - **Personal Finance Management**: Understand income vs. spending.
 - **Spending Habit Detection**: Identify recurring patterns, top merchants, and inefficient expenses.
 - **Budgeting Assistant**: Generate AI-based savings strategies.
-- **Multi-App Integration**: Unify UPI data from multiple sources.Here, only Paytm is Given 
+- **Multi-App Integration**: Unify UPI data from multiple sources. Here, Only Paytm and PhonePe are given 
 
 ---
 
